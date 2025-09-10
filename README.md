@@ -56,9 +56,8 @@
 ---
 
 ## 💼 Freelance / Portfolio
-- 🌍 Upwork: [link]  
-- 🎯 Fiverr: [link]  
-- 🖥️ Portfolio Websites (made by me): [visatochina.com.ua](https://visatochina.com.ua), [etc.]  
+- 🎯 Fiverr: [link](https://www.fiverr.com/lytvyxez/)  
+- 🖥️ Portfolio Websites (made by me): [visatochina.com.ua](https://visatochina.com.ua),    [etc.](www.example.com)  
 
 ---
 
