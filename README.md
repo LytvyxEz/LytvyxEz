@@ -3,11 +3,7 @@
 💻 Backend Developer (Python, Django, FastAPI, Flask)  
 🌍 From Ukraine (english B2, russian native, ukraine native, polish a1)   
 
----
 
-![Status](https://img.shields.io/badge/Status-Open%20for%20freelance-brightgreen?style=for-the-badge)
-
----
 
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LytvyxEz)
