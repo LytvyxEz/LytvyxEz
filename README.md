@@ -2,7 +2,8 @@
 
 # 👋 Hey, I'm **LytvyxEz**
 
-💻 **Backend Developer** — Python | Django | FastAPI | DRF | Celery  | Aiogram | Telebot
+💻 **Backend Developer** — Python | Django | FastAPI | DRF | Celery  | Aiogram | Telebot 
+
 🚀 Building APIs, bots, microservices & automation  
 📍 From **Ukraine**  
 🌐 Languages: **English B2**, **Russian (native)**, **Ukrainian (native)**, **Polish A1**
