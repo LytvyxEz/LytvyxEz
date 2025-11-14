@@ -69,19 +69,23 @@
 ## 🚀 Highlight Projects
 
 - 💼 **Vacancy Hub** — Job vacancy parser
-- FastAPI + Supabase + Selenium + Pydantinc 
+- FastAPI + Supabase + Selenium + Pydantinc
+
   👉 https://github.com/LytvyxEz/Vacancy-Hub  
 
 - 🐦 **X-Whisper** — Twitter-style social clone
 - Flask + Supabase 
+
   👉 https://github.com/LytvyxEz/X-Whisper  
 
 - 🧠 **Wisdom Quotes** — Random quote scrapper and explanation from gemini
 - FastAPI RestAPI + Bs4 + httpx + Genai client + PostgreSQL + SQLAlchemy
+
   👉 https://github.com/LytvyxEz/Wisdom-Quotes  
 
 - 🛍️ **ClickShop** — E-commerce demo, online shop
 - Django rest framework + React + PostreSQL + SQLAlchemy
+
   👉 https://github.com/LytvyxEz/ClickShop  
 
 ---
